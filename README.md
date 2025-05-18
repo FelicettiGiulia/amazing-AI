@@ -45,7 +45,7 @@ Bay Area Times
 
 Datapizza
 
-Ashley Didarenok
+Ashley Dudarenok
 
 AI Pulse
 
