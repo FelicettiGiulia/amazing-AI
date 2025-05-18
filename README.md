@@ -3,151 +3,188 @@ This repository contains useful and interesting resources related to AI
 
 ## Podcasts
 
+The AI Daily Brief
+
+Latent Space
+
+Intelligenza Artificiale spiegata semplice
+
+Ciao Internet
+
+The GaryVee Audio Experience
+
+Tutto Connesso
+
+ai+a16z
+
+Algoritmi
+
+ThinkCast
+
+No Priors
 
 ## Youtube channels
 
+The AI Fellowship
+
+The Feedback Loop
+
+Raffaele Gaito
+
+Datapizza
+
 ## Newsletters
-SØØn
-
-a16z speedrun
-
-agent.ai
 
 The Batch @ DeepLearning.AI
-The AI Report
-Exponential View
-
-Stratechery by Ben Thompson
-
-Benedict's Newsletter
-
-Not Boring by Packy McCormick
-
-The Generalist
-
-Linas's Newsletter
-
-Matteo Flora
-
-Jacopo Perfetti | CORRENTE
 
 AI with ALLIE
 
 Latent.Space
 
+Bay Area Times
+
+Datapizza
+
+Ashley Didarenok
+
+AI Pulse
+
+Colossus Digital
+
+Giuseppe Stigliano
+
+ByteByteGo
+
+The Neuron
+
+Google Cloud Innovators
+
+Peter Diamandis
+
+News from Google
+
+Alpha Signal
+
+Horizon AI
+
+The Generalist
+
+Cassie Kozyrkov on substack
+
+The Singlestore Team
+
+Deeplearning.AI
+
+AI Engineer World's Fair
+
+The founders Corner
+
+Linas Beliūnas from Linas's Newsletter
+
+The Substack Post
+
+SØØn
+
+a16z speedrun
+
+Matteo Flora
+
+Jacopo Perfetti | CORRENTE
+
 ThursdAI
-
-The Information
-
-Platformer
-
-Big Technology
-
-Casey Newton's Newsletter
-
-TechCrunch Daily
-
-MIT Technology Review - The Download
-
-Emerging Tech Brew
-
-Inside AI
-
-AI Supremacy
-
-The Memo by Axios
-
-Decoder with Nilay Patel
-
-Hard Fork
-
-Techmeme
-
-Stratechery Plus
 
 Raffaele Gaito
 
 AI Pulse
 
-Superhuman
-
 The Verge
-
-Rest of World
-
-Protocol
-
-Semafor
-
-The Diff
-
-Margins
-
-Ottimo
-
-The Next Web (TNW)
-
-Ars Technica Newsletter
-
-WIRED Insider
-
-Fast Company Newsletter
-
-Tech in Asia
-
-The Ken
-
-CB Insights Newsletter
 
 Andreessen Horowitz (a16z) Newsletter
 
-Union Square Ventures (USV) Newsletter
-
-Initialized Capital Newsletter
-
-Y Combinator (YC) Newsletter
-
-500 Global Newsletter
-
-Sequoia Capital Newsletter
-
-Lightspeed Venture Partners Newsletter
-
-Khosla Ventures Newsletter
-
-Greylock Partners Newsletter
-
-First Round Review
-
-AVC by Fred Wilson
-
-Both Sides of the Table by Mark Suster
-
-StrictlyVC
-
-Term Sheet by Fortune
-
-Pro Rata by Axios
-
-The Information's Daily Newsletter
-
-The Wall Street Journal - Tech News
-
-The New York Times - Tech
-
-Financial Times - Tech News
-
-Bloomberg - Technology
-
-Reuters - Technology News
-
-CNBC - Tech
-
-Protocol - Enterprise
-
 ## Linkedin voices
+
+Allie K. Miller
+
+Alex Wang
+
+Ethan Mollick
+
+Romano Cappellari
+
+Alex Banks
+
+Mustafa Suleyman
+
+Aravind Srinivas
+
+Yann LeCun
+
+Sara Noggler
+
+Jonathan Ross
+
+Cassie Kozyrkov
+
+Fabio Moioli
+
+Lior Alexander
+
+Bernard Marr
+
+Massimo Chiriatti
+
+Nicola Grandis
+
+Harpreet Sahota 🥑
+
+Amanda Bickerstaff
+
+Andrew Ng
+
+Lex Fridman
+
+Greg Coquillo
+
+Giacomo Ciarlini
+
+Randi Zuckerberg
+
+Reid Hoffman
+
+Gary Vaynerchuk
+
+Carly Taylor, MSc
+
+Walter Renna
+
+Paolo Benanti
+
+Karen X. Cheng
+
+Alessio Pomaro
+
+Emily Chang
+
+Alberto Dalmasso
+
+Ali Ghodsi
+
+Nicolò Santin
 
 ## Communities
 
+Perplexity Business Fellowship Program
+
 ## Valuable courses
 
+Machine Learning by Andrew NG @Deeplearning.AI
+
+Prompt Engineering by Vanderbilt University
+
+Knime Analytics Platform per Data Scientists
+
+## Remarkable Books
+
+Co-Intelligence by Ethan Mollick
+
+The World I see by Fei-Fei-Li
